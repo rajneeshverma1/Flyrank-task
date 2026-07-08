@@ -1,9 +1,9 @@
-# Flyrank Task: Minimalist Node.js Backend
+# Flyrank Task 2: Real Authentication (Zero Dependencies)
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-A lightweight and fast backend server built using vanilla Node.js without any external frameworks (like Express). This project demonstrates the core capability of setting up HTTP servers and RESTful endpoints using native JavaScript modules.
+This is the second phase of the Flyrank task. We have added **real authentication** (registration, login with secure password hashing, and token-based protected routes) strictly using vanilla Node.js and its native `crypto` module, maintaining the zero-dependency rule.
 
 ## Features
 
